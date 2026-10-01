@@ -1,0 +1,20 @@
+# File konfigurasi yang berisi credential
+config.php
+
+# Environment / credential
+.env
+.env.*
+
+# Log
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
